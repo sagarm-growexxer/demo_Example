@@ -5,3 +5,4 @@
 
 2. git clone //Clone existing repo
 
+3. git add . // adding existing repo 
