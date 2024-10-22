@@ -11,11 +11,3 @@
  3. adding new command // git add .
  3. adding new command // git add .
 
-2. git clone //Clone existing repo
-
-3. 2. git clone //Clone existing repo
-   3. 2. git clone //Clone existing repo
-      3. 2. git clone //Clone existing repo
-         3. 
-# All the changes are done 
-
