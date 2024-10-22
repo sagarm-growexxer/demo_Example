@@ -5,5 +5,3 @@
 
 2. git clone //Clone existing repo
 
-3. adding new command // git add .
-
